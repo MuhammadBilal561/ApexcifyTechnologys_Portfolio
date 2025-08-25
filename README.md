@@ -2,7 +2,7 @@
 This project is a personal portfolio website for a MERN Stack Developer, showcasing a clean, modern design with interactive animations and an "Electric Sunset" color scheme. Built with a focus on user experience, the site features a dynamic background, smooth animations on scroll, and a contact form to connect with potential employers or clients.
 
 
-## [Live Demo](https://your-project-live-url.com)
+## [Live Demo](https://muhammadbilal561.github.io/ApexcifyTechnologys_Portfolio/)
 
 ## Features
 Dynamic Background: An interactive particle background powered by Particle.js.
